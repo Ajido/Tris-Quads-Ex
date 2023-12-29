@@ -6,8 +6,8 @@ bl_info = {
     "name": "Tris to Quads Ex",  # プラグイン名
     "author": "tsutomu",  # 制作者名
     "version": (1, 1),  # バージョン
-    "blender": (3, 6, 0),  # 動作可能なBlenderバージョン
-    "support": "TESTING",  # サポートレベル
+    "blender": (3, 4, 0),  # 動作可能なBlenderバージョン
+    "support": "COMMUNITY",  # サポートレベル
     "category": "Mesh",  # カテゴリ名
     "description": "Tris to quads by mathematical optimization.",  # 説明文
     "location": "Editmode > Face",  # 場所
